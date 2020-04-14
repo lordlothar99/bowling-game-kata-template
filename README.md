@@ -1,4 +1,4 @@
-Bowling Game kata
+Bowling Game kata [![Build Status](https://travis-ci.org/lordlothar99/bowling-game-kata-template.svg?branch=master)](https://travis-ci.org/lordlothar99/bowling-game-kata-template)
 ==================
 
 The game consists of 10 frames as shown above.  In each frame the player has
